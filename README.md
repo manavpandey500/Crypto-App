@@ -1,2 +1,2 @@
 # Crypto-App
-https://cryptocurrency-price-app.herokuapp.com/
+Deployed on Heroku - https://cryptocurrency-price-app.herokuapp.com/
